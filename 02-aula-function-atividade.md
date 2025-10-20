@@ -1,4 +1,4 @@
-# Atividades
+# Atividades - Aula de Sobre FUNÇÕES
 
 1. Recriar calculadora usando função:
   2. Você vai recriar a calculadora que usava apenas IF agora usando FUNÇÕES;
