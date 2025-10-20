@@ -26,5 +26,7 @@ Fazer usando console.log() mesmo por hora.
 # Onde estudar
 
 [MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Functions)
+
 [W3School](https://www.w3schools.com/js/js_functions.asp)
+
 [Eloquent JS](https://eloquentjavascript.net/03_functions.html)
